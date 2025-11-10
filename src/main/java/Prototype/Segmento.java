@@ -5,6 +5,6 @@ package Prototype;
  *
  * @author isaul
  */
-public class Comida {
+public class Segmento {
     
 }

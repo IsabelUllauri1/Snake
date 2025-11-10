@@ -5,6 +5,8 @@ package Prototype;
  *
  * @author isaul
  */
-public class Comida {
+public abstract class ElementoSnake {
+    
+    
     
 }
